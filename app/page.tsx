@@ -1,6 +1,4 @@
-import Image from "next/image";
 import Navbar from "./components/layout/Navbar";
-import Iridescence from "./components/layout/Iridescence";
 import Header from "./components/layout/Header";
 import Awards from "./components/layout/Awards";
 import Works from "./components/layout/Works";
